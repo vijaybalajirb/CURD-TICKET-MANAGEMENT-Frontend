@@ -1,0 +1,20 @@
+.body{
+  background: rgb(255, 253, 253);
+}
+
+.header {
+  background: rgb(224, 224, 224);
+  box-shadow: black;
+  text-align: center;
+  font-family: cursive;
+}
+
+.table{
+  background: rgb(218, 215, 211);
+  box-shadow: black;
+}
+
+.button{
+  text-align: right;
+  color: aquamarine;
+}
